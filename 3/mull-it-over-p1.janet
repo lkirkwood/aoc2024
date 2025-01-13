@@ -1,6 +1,4 @@
-(import utf8)
-
-(def input (slurp "../input"))
+(def input (slurp "input"))
 
 (def mul
   '{
